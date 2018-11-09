@@ -1,5 +1,5 @@
+# -*- coding: UTF-8 -*-
 from flask_script import Manager
-
 from apps import create_app
 
 # 先创建app

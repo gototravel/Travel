@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from apps.cms import cms_bp
 
 

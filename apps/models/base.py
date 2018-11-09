@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from contextlib import contextmanager
 
 from flask_sqlalchemy import SQLAlchemy as _SQLAlchemy
